@@ -34,7 +34,7 @@ Permite registrar valor, litros, quilometragem e calcular consumo médio.
 ## 📱 Screenshots
 
 ### Tela inicial
-![Tela inicial](assets/Abastecimento 1.png)
+![Tela inicial](assets/Abastecimento%201.png)
 
 ### Histórico em tabela
 ![Histórico em tabela](assets/Abastecimento%203.png)
